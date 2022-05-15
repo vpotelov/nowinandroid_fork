@@ -38,3 +38,6 @@ class MainActivity : ComponentActivity() {
         setContent { NiaApp(calculateWindowSizeClass(this)) }
     }
 }
+
+
+
